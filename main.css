@@ -9,6 +9,8 @@ body, html {
   background-image: url("https://static.independent.co.uk/2022/06/17/16/iStock-178749367%20%281%29.jpg");
   background-size: cover;
 
+    
+    body {background-color: blue;}
 
   /* Full height */
   height: 100%; 
